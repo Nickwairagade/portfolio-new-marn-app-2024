@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdd11871.css",
-    "main.js": "/static/js/main.648ec7af.js",
+    "main.js": "/static/js/main.de679d38.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/contact.jpg": "/static/media/contact.3fa5e6039cc80b125f64.jpg",
     "static/media/Nikhil Wairagade-Resume 2024.pdf": "/static/media/Nikhil Wairagade-Resume 2024.1641dc46110051a016c2.pdf",
@@ -14,11 +14,11 @@
     "static/media/profile 2.png": "/static/media/profile 2.22f1689f61d9b815a4ba.png",
     "index.html": "/index.html",
     "main.bdd11871.css.map": "/static/css/main.bdd11871.css.map",
-    "main.648ec7af.js.map": "/static/js/main.648ec7af.js.map",
+    "main.de679d38.js.map": "/static/js/main.de679d38.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd11871.css",
-    "static/js/main.648ec7af.js"
+    "static/js/main.de679d38.js"
   ]
 }
