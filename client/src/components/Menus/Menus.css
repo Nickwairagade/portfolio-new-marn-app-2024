@@ -1,0 +1,48 @@
+.profile-pic img {
+    border-radius: 90px;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+.nav-item {
+    color: white;
+    /* margin-top: 30px; */
+    margin-left: 25px;
+  }
+  .nav-link {
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .nav-link svg {
+    margin-right: 10px;
+  }
+  .nav-link:hover {
+    color: #009933;
+  }
+  
+  .nav-link .active {
+    color: #00cc44;
+    border-left: 5px solid #00cc44;
+    padding-left: 10px;
+    text-decoration: none;
+  }
+
+  /* Theme Button */
+.theme-btn {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #004080;
+  margin-top: 20px;
+  text-align: center;
+  cursor: pointer;
+  position: fixed;
+  /* right: 0; */
+  border-radius: 50px;
+  z-index: 1;
+}

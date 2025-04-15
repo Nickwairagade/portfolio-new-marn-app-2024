@@ -1,0 +1,67 @@
+.home-container{
+    height: 300px;
+    color: #fff;
+    padding-left: 120px;
+}
+.home-content h2{
+    padding: 5px;
+    padding-top: 80px;
+}
+.home-content h1{
+   color: #009933;
+   padding: 5px;
+}
+.home-buttons {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.home-buttons .btn-hire {
+    width: 160px;
+    color: #fff;
+    background-color: #009933;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.home-buttons .btn-hire:hover {
+    background-color: #fff;
+    color: #009933;
+    width: 200px;
+    transition: 1s;
+}
+.home-buttons .btn-cv {
+    background-color: #fff;
+    color: #009933;
+    border-radius: 0;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.home-buttons .btn-cv:hover {
+    opacity: 80%;
+    transition: 1s;
+    background-color: #009933;
+    color: #fff;
+}
+
+
+
+/* =============== */
+@media (max-width: 600px) {
+    .home-container {
+      padding: 0;
+      margin: 0;
+      margin-top: 50px;
+    }
+    .home-container h2 {
+      font-size: 24px;
+    }
+    .home-container h1 {
+      font-size: 24px;
+    }
+    .home-buttons .btn-hire {
+        width: 110px;
+    }
+    .home-buttons .btn-hire:hover {
+        width: 150px;
+    }
+  }

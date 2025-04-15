@@ -1,0 +1,47 @@
+.teckstack {
+  padding-left: 140px;
+  margin-top: 60px;
+}
+.teckstack hr {
+  color: #138731;
+  width: 400px;
+  margin: 10px auto;
+}
+.teckstack h2 {
+  font-weight: bold;
+  color: #138731;
+}
+.teckstack .card {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.teckstack .tech-icon {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+.teckstack .card:hover {
+  background-color: #138731;
+  color: #fff;
+  border: none;
+  transition: 1s;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* =============================== */
+@media (max-width: 1000px) {
+  .teckstack {
+    padding-left: 140px;
+    margin-top: 60px;
+  }
+}
+@media (max-width: 600px) {
+  .teckstack {
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+  }
+
+  .teckstack hr {
+    width: 280px;
+  }
+}

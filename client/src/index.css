@@ -1,0 +1,17 @@
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Dark Mode */
+
+#dark {
+  background-color: #312b31;
+  color: #f4eee0;
+}
+#dark .about{
+  box-shadow: none;
+  background-color: rgb(0, 0, 0, 0.20);
+}

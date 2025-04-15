@@ -1,0 +1,39 @@
+.work {
+    background-color: #1387812a;
+    margin-left: 140px;
+}
+.work .work-exp {
+    padding: 60px 0;
+}
+.work-exp h2 {
+    font-weight: bold;
+    color: #1e1e2c;
+}
+.work-exp hr {
+    color: #138731;
+    width: 400px;
+    margin: 10px auto;
+
+}
+.work-exp .vertical-timeline-element-title {
+    color: #336699;
+}
+.work-exp .vertical-timeline-element-subtitle {
+    color: #8cb3d9;
+}
+.work-exp h5 {
+    margin: 10px 0 10px 0;
+}
+
+/* =================== */
+
+@media (max-width: 600px) {
+    .work {
+      margin: 0;
+      padding: 0;
+      margin-top: 50px;
+    }
+    .work hr {
+      width: 280px;
+    }
+  }
